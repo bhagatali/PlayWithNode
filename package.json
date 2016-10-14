@@ -1,0 +1,18 @@
+{
+  "name": "nodekarle",
+  "version": "1.0.0",
+  "description": "Introductionto NodeJS - SitePoint Tutorials",
+  "main": "app.js",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "html": "0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Bhagat",
+  "license": "ISC"
+}
